@@ -1,0 +1,14 @@
+{
+  "categorias": [
+    {"id": "RED", "nombre": "Red/Conectividad", "sla_alta_min": 240, "sla_media_min": 480},
+    {"id": "HW", "nombre": "Hardware", "sla_alta_min": 480, "sla_media_min": 1440},
+    {"id": "SW", "nombre": "Software", "sla_alta_min": 480, "sla_media_min": 1440},
+    {"id": "ACC", "nombre": "Accesos y Seguridad", "sla_alta_min": 120, "sla_media_min": 480},
+    {"id": "MAIL", "nombre": "Correo/Colaboracion", "sla_alta_min": 240, "sla_media_min": 720},
+    {"id": "ERP", "nombre": "ERP/SAP", "sla_alta_min": 240, "sla_media_min": 480},
+    {"id": "BD", "nombre": "Base de Datos", "sla_alta_min": 120, "sla_media_min": 480},
+    {"id": "INF", "nombre": "Infraestructura", "sla_alta_min": 120, "sla_media_min": 480},
+    {"id": "TEL", "nombre": "Telefonia", "sla_alta_min": 480, "sla_media_min": 1440},
+    {"id": "PROY", "nombre": "Proyectos/Requerimientos", "sla_alta_min": 2880, "sla_media_min": 7200}
+  ]
+}
